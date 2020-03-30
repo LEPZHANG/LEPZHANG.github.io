@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/03/30/%25E5%2586%2599%25E7%25BB%2599%25E6%2588%2591%25E7%259A%2584%25E7%2594%259F%25E6%2597%25A5%25EF%25BC%25882019%25EF%25BC%2589/</loc>
+    <loc>http://yoursite.com/about/index.html</loc>
     
-    <lastmod>2020-03-30T16:01:09.847Z</lastmod>
+    <lastmod>2020-03-30T16:18:00.676Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2020/03/30/%25E5%2586%2599%25E7%25BB%2599holly/</loc>
     
-    <lastmod>2020-03-30T16:00:34.792Z</lastmod>
+    <lastmod>2020-03-30T16:13:30.671Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/archive/index.html</loc>
     
-    <lastmod>2020-03-30T15:26:46.797Z</lastmod>
+    <lastmod>2020-03-30T16:10:28.794Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/03/30/%25E5%2586%2599%25E7%25BB%2599%25E6%2588%2591%25E7%259A%2584%25E7%2594%259F%25E6%2597%25A5%25EF%25BC%25882019%25EF%25BC%2589/</loc>
+    
+    <lastmod>2020-03-30T16:01:09.847Z</lastmod>
     
   </url>
   
